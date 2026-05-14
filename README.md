@@ -10,3 +10,5 @@ Neste momento, o repositório está em construção.
 
 Vamos aprender a fazer um commit local!
 
+Aprendendo a fazer um commit com duas ações.
+
